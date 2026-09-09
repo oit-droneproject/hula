@@ -21,4 +21,4 @@ Hula（フラ）は、プログラミング学習用のドローンです。Pyth
 |取扱説明書	|1|
 |合格証	|1|
 
-![](http://./image/hula-jp.JPG)
+![](http://./image/hula.JPG)
